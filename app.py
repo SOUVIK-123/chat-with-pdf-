@@ -3,7 +3,7 @@ import openai
 import pdfplumber
 
 # Initialize the OpenAI API with your API key
-openai.api_key = "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"
+openai.api_key = "open_ai_key"
 
 # Define a chat history dictionary to store user-chatbot interactions
 chat_history = []
